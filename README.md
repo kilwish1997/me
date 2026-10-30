@@ -23,7 +23,7 @@ Building parcel viewer interfaces often requires cobbling together mapping libra
 Plotwise Kit is organized as an npm workspace:
 
 ```text
-plotwise-kit/
+./
   packages/
     core/             # Pure TypeScript: validation, area calculation, filters, state
     react/            # React parcel viewer, Leaflet map, accessible virtual list, controls
@@ -48,9 +48,9 @@ plotwise-kit/
 ### Installation & Demo Run
 
 ```bash
-# 1. Clone repository and navigate to plotwise-kit
-git clone <repo-url>
-cd plotwise-kit
+# 1. Clone repository
+git clone https://github.com/kilwish1997/me.git
+cd me
 
 # 2. Install workspace dependencies
 npm install

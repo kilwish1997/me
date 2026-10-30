@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "INV-COORD-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.4194,
+              37.7749
+            ],
+            [
+              122.4194,
+              95
+            ],
+            [
+              122.42,
+              95
+            ],
+            [
+              122.42,
+              37.7749
+            ],
+            [
+              122.4194,
+              37.7749
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "INV-COORD-001",
+        "label": "Inverted Coordinates",
+        "status": "available"
+      }
+    }
+  ]
+}

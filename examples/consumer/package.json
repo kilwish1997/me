@@ -1,0 +1,24 @@
+{
+  "name": "plotwise-consumer-example",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal external consumer verifying packed Plotwise Kit artifacts",
+  "type": "module",
+  "scripts": {
+    "test:node": "node src/node-test.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@kilwish1997/plotwise-core": "^0.1.0",
+    "@kilwish1997/plotwise-react": "^0.1.0",
+    "leaflet": "^1.9.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.16",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "typescript": "^5.7.2"
+  }
+}

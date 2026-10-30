@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "INV-UNSUPPORTED-001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.315,
+          44.058
+        ]
+      },
+      "properties": {
+        "id": "INV-UNSUPPORTED-001",
+        "label": "Point Geometry",
+        "status": "available"
+      }
+    }
+  ]
+}

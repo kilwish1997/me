@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "INV-RANGE-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -185,
+              44
+            ],
+            [
+              -184.9,
+              44
+            ],
+            [
+              -184.9,
+              44.1
+            ],
+            [
+              -185,
+              44.1
+            ],
+            [
+              -185,
+              44
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "INV-RANGE-001",
+        "label": "Out of Range",
+        "status": "available"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SYN-50-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.058
+            ],
+            [
+              -121.314624,
+              44.058
+            ],
+            [
+              -121.314624,
+              44.05836
+            ],
+            [
+              -121.315,
+              44.05836
+            ],
+            [
+              -121.315,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-001",
+        "label": "Lot 1 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-002",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314562,
+              44.058
+            ],
+            [
+              -121.314186,
+              44.058
+            ],
+            [
+              -121.314186,
+              44.05836
+            ],
+            [
+              -121.314562,
+              44.05836
+            ],
+            [
+              -121.314562,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-002",
+        "label": "Lot 2 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314123,
+              44.058
+            ],
+            [
+              -121.313748,
+              44.058
+            ],
+            [
+              -121.313748,
+              44.05836
+            ],
+            [
+              -121.314123,
+              44.05836
+            ],
+            [
+              -121.314123,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-003",
+        "label": "Lot 3 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-004",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313685,
+              44.058
+            ],
+            [
+              -121.313309,
+              44.058
+            ],
+            [
+              -121.313309,
+              44.05836
+            ],
+            [
+              -121.313685,
+              44.05836
+            ],
+            [
+              -121.313685,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-004",
+        "label": "Lot 4 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-005",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313247,
+              44.058
+            ],
+            [
+              -121.312871,
+              44.058
+            ],
+            [
+              -121.312871,
+              44.05836
+            ],
+            [
+              -121.313247,
+              44.05836
+            ],
+            [
+              -121.313247,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-005",
+        "label": "Lot 5 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-006",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.312808,
+              44.058
+            ],
+            [
+              -121.312432,
+              44.058
+            ],
+            [
+              -121.312432,
+              44.05836
+            ],
+            [
+              -121.312808,
+              44.05836
+            ],
+            [
+              -121.312808,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-006",
+        "label": "Lot 6 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-007",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.31237,
+              44.058
+            ],
+            [
+              -121.311994,
+              44.058
+            ],
+            [
+              -121.311994,
+              44.05836
+            ],
+            [
+              -121.31237,
+              44.05836
+            ],
+            [
+              -121.31237,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-007",
+        "label": "Lot 7 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-008",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.058405
+            ],
+            [
+              -121.314624,
+              44.058405
+            ],
+            [
+              -121.314624,
+              44.058765
+            ],
+            [
+              -121.315,
+              44.058765
+            ],
+            [
+              -121.315,
+              44.058405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-008",
+        "label": "Lot 8 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-009",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314562,
+              44.058405
+            ],
+            [
+              -121.314186,
+              44.058405
+            ],
+            [
+              -121.314186,
+              44.058765
+            ],
+            [
+              -121.314562,
+              44.058765
+            ],
+            [
+              -121.314562,
+              44.058405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-009",
+        "label": "Lot 9 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-010",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314123,
+              44.058405
+            ],
+            [
+              -121.313748,
+              44.058405
+            ],
+            [
+              -121.313748,
+              44.058765
+            ],
+            [
+              -121.314123,
+              44.058765
+            ],
+            [
+              -121.314123,
+              44.058405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-010",
+        "label": "Lot 10 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-011",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313685,
+              44.058405
+            ],
+            [
+              -121.313309,
+              44.058405
+            ],
+            [
+              -121.313309,
+              44.058765
+            ],
+            [
+              -121.313685,
+              44.058765
+            ],
+            [
+              -121.313685,
+              44.058405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-011",
+        "label": "Lot 11 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-012",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313247,
+              44.058405
+            ],
+            [
+              -121.312871,
+              44.058405
+            ],
+            [
+              -121.312871,
+              44.058765
+            ],
+            [
+              -121.313247,
+              44.058765
+            ],
+            [
+              -121.313247,
+              44.058405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-012",
+        "label": "Lot 12 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-013",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.312808,
+              44.058405
+            ],
+            [
+              -121.312432,
+              44.058405
+            ],
+            [
+              -121.312432,
+              44.058765
+            ],
+            [
+              -121.312808,
+              44.058765
+            ],
+            [
+              -121.312808,
+              44.058405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-013",
+        "label": "Lot 13 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-014",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.31237,
+              44.058405
+            ],
+            [
+              -121.311994,
+              44.058405
+            ],
+            [
+              -121.311994,
+              44.058765
+            ],
+            [
+              -121.31237,
+              44.058765
+            ],
+            [
+              -121.31237,
+              44.058405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-014",
+        "label": "Lot 14 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-015",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.05881
+            ],
+            [
+              -121.314624,
+              44.05881
+            ],
+            [
+              -121.314624,
+              44.05917
+            ],
+            [
+              -121.315,
+              44.05917
+            ],
+            [
+              -121.315,
+              44.05881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-015",
+        "label": "Lot 15 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-016",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314562,
+              44.05881
+            ],
+            [
+              -121.314186,
+              44.05881
+            ],
+            [
+              -121.314186,
+              44.05917
+            ],
+            [
+              -121.314562,
+              44.05917
+            ],
+            [
+              -121.314562,
+              44.05881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-016",
+        "label": "Lot 16 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-017",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314123,
+              44.05881
+            ],
+            [
+              -121.313748,
+              44.05881
+            ],
+            [
+              -121.313748,
+              44.05917
+            ],
+            [
+              -121.314123,
+              44.05917
+            ],
+            [
+              -121.314123,
+              44.05881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-017",
+        "label": "Lot 17 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-018",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313685,
+              44.05881
+            ],
+            [
+              -121.313309,
+              44.05881
+            ],
+            [
+              -121.313309,
+              44.05917
+            ],
+            [
+              -121.313685,
+              44.05917
+            ],
+            [
+              -121.313685,
+              44.05881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-018",
+        "label": "Lot 18 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-019",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313247,
+              44.05881
+            ],
+            [
+              -121.312871,
+              44.05881
+            ],
+            [
+              -121.312871,
+              44.05917
+            ],
+            [
+              -121.313247,
+              44.05917
+            ],
+            [
+              -121.313247,
+              44.05881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-019",
+        "label": "Lot 19 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-020",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.312808,
+              44.05881
+            ],
+            [
+              -121.312432,
+              44.05881
+            ],
+            [
+              -121.312432,
+              44.05917
+            ],
+            [
+              -121.312808,
+              44.05917
+            ],
+            [
+              -121.312808,
+              44.05881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-020",
+        "label": "Lot 20 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-021",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.31237,
+              44.05881
+            ],
+            [
+              -121.311994,
+              44.05881
+            ],
+            [
+              -121.311994,
+              44.05917
+            ],
+            [
+              -121.31237,
+              44.05917
+            ],
+            [
+              -121.31237,
+              44.05881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-021",
+        "label": "Lot 21 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-022",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.059215
+            ],
+            [
+              -121.314624,
+              44.059215
+            ],
+            [
+              -121.314624,
+              44.059575
+            ],
+            [
+              -121.315,
+              44.059575
+            ],
+            [
+              -121.315,
+              44.059215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-022",
+        "label": "Lot 22 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 22"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-023",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314562,
+              44.059215
+            ],
+            [
+              -121.314186,
+              44.059215
+            ],
+            [
+              -121.314186,
+              44.059575
+            ],
+            [
+              -121.314562,
+              44.059575
+            ],
+            [
+              -121.314562,
+              44.059215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-023",
+        "label": "Lot 23 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 23"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-024",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314123,
+              44.059215
+            ],
+            [
+              -121.313748,
+              44.059215
+            ],
+            [
+              -121.313748,
+              44.059575
+            ],
+            [
+              -121.314123,
+              44.059575
+            ],
+            [
+              -121.314123,
+              44.059215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-024",
+        "label": "Lot 24 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 24"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-025",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313685,
+              44.059215
+            ],
+            [
+              -121.313309,
+              44.059215
+            ],
+            [
+              -121.313309,
+              44.059575
+            ],
+            [
+              -121.313685,
+              44.059575
+            ],
+            [
+              -121.313685,
+              44.059215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-025",
+        "label": "Lot 25 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-026",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313247,
+              44.059215
+            ],
+            [
+              -121.312871,
+              44.059215
+            ],
+            [
+              -121.312871,
+              44.059575
+            ],
+            [
+              -121.313247,
+              44.059575
+            ],
+            [
+              -121.313247,
+              44.059215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-026",
+        "label": "Lot 26 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 26"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-027",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.312808,
+              44.059215
+            ],
+            [
+              -121.312432,
+              44.059215
+            ],
+            [
+              -121.312432,
+              44.059575
+            ],
+            [
+              -121.312808,
+              44.059575
+            ],
+            [
+              -121.312808,
+              44.059215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-027",
+        "label": "Lot 27 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-028",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.31237,
+              44.059215
+            ],
+            [
+              -121.311994,
+              44.059215
+            ],
+            [
+              -121.311994,
+              44.059575
+            ],
+            [
+              -121.31237,
+              44.059575
+            ],
+            [
+              -121.31237,
+              44.059215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-028",
+        "label": "Lot 28 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-029",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.05962
+            ],
+            [
+              -121.314624,
+              44.05962
+            ],
+            [
+              -121.314624,
+              44.05998
+            ],
+            [
+              -121.315,
+              44.05998
+            ],
+            [
+              -121.315,
+              44.05962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-029",
+        "label": "Lot 29 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 29"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-030",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314562,
+              44.05962
+            ],
+            [
+              -121.314186,
+              44.05962
+            ],
+            [
+              -121.314186,
+              44.05998
+            ],
+            [
+              -121.314562,
+              44.05998
+            ],
+            [
+              -121.314562,
+              44.05962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-030",
+        "label": "Lot 30 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-031",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314123,
+              44.05962
+            ],
+            [
+              -121.313748,
+              44.05962
+            ],
+            [
+              -121.313748,
+              44.05998
+            ],
+            [
+              -121.314123,
+              44.05998
+            ],
+            [
+              -121.314123,
+              44.05962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-031",
+        "label": "Lot 31 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 31"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-032",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313685,
+              44.05962
+            ],
+            [
+              -121.313309,
+              44.05962
+            ],
+            [
+              -121.313309,
+              44.05998
+            ],
+            [
+              -121.313685,
+              44.05998
+            ],
+            [
+              -121.313685,
+              44.05962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-032",
+        "label": "Lot 32 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 32"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-033",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313247,
+              44.05962
+            ],
+            [
+              -121.312871,
+              44.05962
+            ],
+            [
+              -121.312871,
+              44.05998
+            ],
+            [
+              -121.313247,
+              44.05998
+            ],
+            [
+              -121.313247,
+              44.05962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-033",
+        "label": "Lot 33 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 33"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-034",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.312808,
+              44.05962
+            ],
+            [
+              -121.312432,
+              44.05962
+            ],
+            [
+              -121.312432,
+              44.05998
+            ],
+            [
+              -121.312808,
+              44.05998
+            ],
+            [
+              -121.312808,
+              44.05962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-034",
+        "label": "Lot 34 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 34"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-035",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.31237,
+              44.05962
+            ],
+            [
+              -121.311994,
+              44.05962
+            ],
+            [
+              -121.311994,
+              44.05998
+            ],
+            [
+              -121.31237,
+              44.05998
+            ],
+            [
+              -121.31237,
+              44.05962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-035",
+        "label": "Lot 35 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 35"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-036",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.06016
+            ],
+            [
+              -121.314499,
+              44.06016
+            ],
+            [
+              -121.314499,
+              44.06034
+            ],
+            [
+              -121.31475,
+              44.06034
+            ],
+            [
+              -121.31475,
+              44.06052
+            ],
+            [
+              -121.315,
+              44.06052
+            ],
+            [
+              -121.315,
+              44.06016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-036",
+        "label": "Corner Lot 36 (L-Shaped)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "C-1 Commercial",
+        "notes": "Corner concave lot with dual road frontage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-037",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314436,
+              44.06016
+            ],
+            [
+              -121.313935,
+              44.06016
+            ],
+            [
+              -121.313935,
+              44.06034
+            ],
+            [
+              -121.314186,
+              44.06034
+            ],
+            [
+              -121.314186,
+              44.06052
+            ],
+            [
+              -121.314436,
+              44.06052
+            ],
+            [
+              -121.314436,
+              44.06016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-037",
+        "label": "Corner Lot 37 (L-Shaped)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "C-1 Commercial",
+        "notes": "Corner concave lot with dual road frontage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-038",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313873,
+              44.06016
+            ],
+            [
+              -121.313372,
+              44.06016
+            ],
+            [
+              -121.313372,
+              44.06034
+            ],
+            [
+              -121.313622,
+              44.06034
+            ],
+            [
+              -121.313622,
+              44.06052
+            ],
+            [
+              -121.313873,
+              44.06052
+            ],
+            [
+              -121.313873,
+              44.06016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-038",
+        "label": "Corner Lot 38 (L-Shaped)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "C-1 Commercial",
+        "notes": "Corner concave lot with dual road frontage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-039",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313309,
+              44.06016
+            ],
+            [
+              -121.312808,
+              44.06016
+            ],
+            [
+              -121.312808,
+              44.06034
+            ],
+            [
+              -121.313059,
+              44.06034
+            ],
+            [
+              -121.313059,
+              44.06052
+            ],
+            [
+              -121.313309,
+              44.06052
+            ],
+            [
+              -121.313309,
+              44.06016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-039",
+        "label": "Corner Lot 39 (L-Shaped)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "C-1 Commercial",
+        "notes": "Corner concave lot with dual road frontage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-040",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.312746,
+              44.06016
+            ],
+            [
+              -121.312245,
+              44.06016
+            ],
+            [
+              -121.312245,
+              44.06034
+            ],
+            [
+              -121.312495,
+              44.06034
+            ],
+            [
+              -121.312495,
+              44.06052
+            ],
+            [
+              -121.312746,
+              44.06052
+            ],
+            [
+              -121.312746,
+              44.06016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-040",
+        "label": "Corner Lot 40 (L-Shaped)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "C-1 Commercial",
+        "notes": "Corner concave lot with dual road frontage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-041",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.0607
+            ],
+            [
+              -121.314436,
+              44.0607
+            ],
+            [
+              -121.314436,
+              44.061105
+            ],
+            [
+              -121.315,
+              44.061105
+            ],
+            [
+              -121.315,
+              44.0607
+            ]
+          ],
+          [
+            [
+              -121.314812,
+              44.060835
+            ],
+            [
+              -121.314624,
+              44.060835
+            ],
+            [
+              -121.314624,
+              44.06097
+            ],
+            [
+              -121.314812,
+              44.06097
+            ],
+            [
+              -121.314812,
+              44.060835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-041",
+        "label": "Atrium Estate 41 (With Courtyard)",
+        "status": "sold",
+        "surveyedAreaSqm": 1800,
+        "zoning": "PUD Planned Development",
+        "notes": "Contains internal excluded courtyard hole"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-042",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314374,
+              44.0607
+            ],
+            [
+              -121.31381,
+              44.0607
+            ],
+            [
+              -121.31381,
+              44.061105
+            ],
+            [
+              -121.314374,
+              44.061105
+            ],
+            [
+              -121.314374,
+              44.0607
+            ]
+          ],
+          [
+            [
+              -121.314186,
+              44.060835
+            ],
+            [
+              -121.313998,
+              44.060835
+            ],
+            [
+              -121.313998,
+              44.06097
+            ],
+            [
+              -121.314186,
+              44.06097
+            ],
+            [
+              -121.314186,
+              44.060835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-042",
+        "label": "Atrium Estate 42 (With Courtyard)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1800,
+        "zoning": "PUD Planned Development",
+        "notes": "Contains internal excluded courtyard hole"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-043",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313748,
+              44.0607
+            ],
+            [
+              -121.313184,
+              44.0607
+            ],
+            [
+              -121.313184,
+              44.061105
+            ],
+            [
+              -121.313748,
+              44.061105
+            ],
+            [
+              -121.313748,
+              44.0607
+            ]
+          ],
+          [
+            [
+              -121.31356,
+              44.060835
+            ],
+            [
+              -121.313372,
+              44.060835
+            ],
+            [
+              -121.313372,
+              44.06097
+            ],
+            [
+              -121.31356,
+              44.06097
+            ],
+            [
+              -121.31356,
+              44.060835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-043",
+        "label": "Atrium Estate 43 (With Courtyard)",
+        "status": "available",
+        "surveyedAreaSqm": 1800,
+        "zoning": "PUD Planned Development",
+        "notes": "Contains internal excluded courtyard hole"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-044",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313121,
+              44.0607
+            ],
+            [
+              -121.312558,
+              44.0607
+            ],
+            [
+              -121.312558,
+              44.061105
+            ],
+            [
+              -121.313121,
+              44.061105
+            ],
+            [
+              -121.313121,
+              44.0607
+            ]
+          ],
+          [
+            [
+              -121.312933,
+              44.060835
+            ],
+            [
+              -121.312746,
+              44.060835
+            ],
+            [
+              -121.312746,
+              44.06097
+            ],
+            [
+              -121.312933,
+              44.06097
+            ],
+            [
+              -121.312933,
+              44.060835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-044",
+        "label": "Atrium Estate 44 (With Courtyard)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1800,
+        "zoning": "PUD Planned Development",
+        "notes": "Contains internal excluded courtyard hole"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-045",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.312495,
+              44.0607
+            ],
+            [
+              -121.311931,
+              44.0607
+            ],
+            [
+              -121.311931,
+              44.061105
+            ],
+            [
+              -121.312495,
+              44.061105
+            ],
+            [
+              -121.312495,
+              44.0607
+            ]
+          ],
+          [
+            [
+              -121.312307,
+              44.060835
+            ],
+            [
+              -121.312119,
+              44.060835
+            ],
+            [
+              -121.312119,
+              44.06097
+            ],
+            [
+              -121.312307,
+              44.06097
+            ],
+            [
+              -121.312307,
+              44.060835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-045",
+        "label": "Atrium Estate 45 (With Courtyard)",
+        "status": "sold",
+        "surveyedAreaSqm": 1800,
+        "zoning": "PUD Planned Development",
+        "notes": "Contains internal excluded courtyard hole"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-046",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -121.315,
+                44.06124
+              ],
+              [
+                -121.31475,
+                44.06124
+              ],
+              [
+                -121.31475,
+                44.0616
+              ],
+              [
+                -121.315,
+                44.0616
+              ],
+              [
+                -121.315,
+                44.06124
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -121.314687,
+                44.06124
+              ],
+              [
+                -121.314499,
+                44.06124
+              ],
+              [
+                -121.314499,
+                44.0616
+              ],
+              [
+                -121.314687,
+                44.0616
+              ],
+              [
+                -121.314687,
+                44.06124
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-046",
+        "label": "Dual Tract 46 (Trail-Separated)",
+        "status": "available",
+        "surveyedAreaSqm": 1400,
+        "zoning": "A-1 Agricultural Residential",
+        "notes": "MultiPolygon parcel split by pedestrian right-of-way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-047",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -121.314374,
+                44.06124
+              ],
+              [
+                -121.314123,
+                44.06124
+              ],
+              [
+                -121.314123,
+                44.0616
+              ],
+              [
+                -121.314374,
+                44.0616
+              ],
+              [
+                -121.314374,
+                44.06124
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -121.314061,
+                44.06124
+              ],
+              [
+                -121.313873,
+                44.06124
+              ],
+              [
+                -121.313873,
+                44.0616
+              ],
+              [
+                -121.314061,
+                44.0616
+              ],
+              [
+                -121.314061,
+                44.06124
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-047",
+        "label": "Dual Tract 47 (Trail-Separated)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1400,
+        "zoning": "A-1 Agricultural Residential",
+        "notes": "MultiPolygon parcel split by pedestrian right-of-way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-048",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -121.313748,
+                44.06124
+              ],
+              [
+                -121.313497,
+                44.06124
+              ],
+              [
+                -121.313497,
+                44.0616
+              ],
+              [
+                -121.313748,
+                44.0616
+              ],
+              [
+                -121.313748,
+                44.06124
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -121.313434,
+                44.06124
+              ],
+              [
+                -121.313247,
+                44.06124
+              ],
+              [
+                -121.313247,
+                44.0616
+              ],
+              [
+                -121.313434,
+                44.0616
+              ],
+              [
+                -121.313434,
+                44.06124
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-048",
+        "label": "Dual Tract 48 (Trail-Separated)",
+        "status": "sold",
+        "surveyedAreaSqm": 1400,
+        "zoning": "A-1 Agricultural Residential",
+        "notes": "MultiPolygon parcel split by pedestrian right-of-way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-049",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -121.313121,
+                44.06124
+              ],
+              [
+                -121.312871,
+                44.06124
+              ],
+              [
+                -121.312871,
+                44.0616
+              ],
+              [
+                -121.313121,
+                44.0616
+              ],
+              [
+                -121.313121,
+                44.06124
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -121.312808,
+                44.06124
+              ],
+              [
+                -121.31262,
+                44.06124
+              ],
+              [
+                -121.31262,
+                44.0616
+              ],
+              [
+                -121.312808,
+                44.0616
+              ],
+              [
+                -121.312808,
+                44.06124
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-049",
+        "label": "Dual Tract 49 (Trail-Separated)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1400,
+        "zoning": "A-1 Agricultural Residential",
+        "notes": "MultiPolygon parcel split by pedestrian right-of-way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-050",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -121.312495,
+                44.06124
+              ],
+              [
+                -121.312245,
+                44.06124
+              ],
+              [
+                -121.312245,
+                44.0616
+              ],
+              [
+                -121.312495,
+                44.0616
+              ],
+              [
+                -121.312495,
+                44.06124
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -121.312182,
+                44.06124
+              ],
+              [
+                -121.311994,
+                44.06124
+              ],
+              [
+                -121.311994,
+                44.0616
+              ],
+              [
+                -121.312182,
+                44.0616
+              ],
+              [
+                -121.312182,
+                44.06124
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-050",
+        "label": "Dual Tract 50 (Trail-Separated)",
+        "status": "available",
+        "surveyedAreaSqm": 1400,
+        "zoning": "A-1 Agricultural Residential",
+        "notes": "MultiPolygon parcel split by pedestrian right-of-way"
+      }
+    }
+  ]
+}

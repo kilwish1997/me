@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "INV-ANTIMERIDIAN-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.5,
+              10
+            ],
+            [
+              -179.5,
+              10
+            ],
+            [
+              -179.5,
+              11
+            ],
+            [
+              179.5,
+              11
+            ],
+            [
+              179.5,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "INV-ANTIMERIDIAN-001",
+        "label": "Antimeridian Crosser",
+        "status": "available"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "INV-UNCLOSED-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.058
+            ],
+            [
+              -121.314,
+              44.058
+            ],
+            [
+              -121.314,
+              44.059
+            ],
+            [
+              -121.315,
+              44.059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "INV-UNCLOSED-001",
+        "label": "Unclosed Ring",
+        "status": "available"
+      }
+    }
+  ]
+}

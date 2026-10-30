@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SYN-50-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.315,
+              44.058
+            ],
+            [
+              -121.314624,
+              44.058
+            ],
+            [
+              -121.314624,
+              44.05836
+            ],
+            [
+              -121.315,
+              44.05836
+            ],
+            [
+              -121.315,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-001",
+        "label": "Lot 1 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314562,
+              44.058
+            ],
+            [
+              -121.314186,
+              44.058
+            ],
+            [
+              -121.314186,
+              44.05836
+            ],
+            [
+              -121.314562,
+              44.05836
+            ],
+            [
+              -121.314562,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-001",
+        "label": "Lot 2 (Meadow View)",
+        "status": "reserved",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.314123,
+              44.058
+            ],
+            [
+              -121.313748,
+              44.058
+            ],
+            [
+              -121.313748,
+              44.05836
+            ],
+            [
+              -121.314123,
+              44.05836
+            ],
+            [
+              -121.314123,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-003",
+        "label": "Lot 3 (Meadow View)",
+        "status": "sold",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-004",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313685,
+              44.058
+            ],
+            [
+              -121.313309,
+              44.058
+            ],
+            [
+              -121.313309,
+              44.05836
+            ],
+            [
+              -121.313685,
+              44.05836
+            ],
+            [
+              -121.313685,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-004",
+        "label": "Lot 4 (Meadow View)",
+        "status": "unavailable",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-2 Medium Density",
+        "notes": "Synthetic test parcel 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYN-50-005",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.313247,
+              44.058
+            ],
+            [
+              -121.312871,
+              44.058
+            ],
+            [
+              -121.312871,
+              44.05836
+            ],
+            [
+              -121.313247,
+              44.05836
+            ],
+            [
+              -121.313247,
+              44.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "SYN-50-005",
+        "label": "Lot 5 (Meadow View)",
+        "status": "available",
+        "surveyedAreaSqm": 1200,
+        "zoning": "R-1 Low Density",
+        "notes": "Synthetic test parcel 5"
+      }
+    }
+  ]
+}

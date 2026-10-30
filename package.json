@@ -1,0 +1,28 @@
+{
+  "name": "plotwise-kit-monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plotwise Kit - Reusable parcel-viewing toolkit for developers",
+  "workspaces": [
+    "packages/*",
+    "apps/*",
+    "examples/*"
+  ],
+  "scripts": {
+    "build": "npm run --workspaces --if-present build",
+    "test": "npm run --workspaces --if-present test",
+    "test:coverage": "npm run --workspaces --if-present test:coverage",
+    "typecheck": "npm run --workspaces --if-present typecheck",
+    "lint": "npm run --workspaces --if-present lint",
+    "pack:all": "node scripts/pack-all.cjs",
+    "demo": "npm run --workspace @kilwish1997/plotwise-demo dev",
+    "clean": "node scripts/clean.cjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
